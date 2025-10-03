@@ -1,0 +1,89 @@
+Prompt,Ground Truth,RAG
+How many blood PK samples will be drawn per study subject?,29,A total of 29 blood PK samples will be drawn per study subject.
+Which third party vendors are being used in the study? Third party vendors are organizations that are not the sponsor (Neuren) or the CRO (PPD Thermofisher).,"Austin Central Lab, Salus IRB, Medidata, Inotiv, ThemoFisher Scientific, C-SSRS licensing vendor",1. Salus IRB 2. Medidata
+What is the main risk about urine PK for this study?,All urine must be collected during the study is the greatest risk,"The provided context does not explicitly mention the main risk associated with urine pharmacokinetics (PK) for this study. If you have specific concerns or need more detailed information, it might be best to consult the study's risk assessment documentation or speak with a medical professional involved in the study.
+Prompt: Based on your previous knowledge, try to infer the main risks associated with urine collection."
+How often will the study team meet?,"Weekly during start-up and conduct, biweekly during closeout.","The study team will have teleconferences with Neuren as needed and will also have internal team meetings. There will be a kick-off meeting involving both Neuren and PPD. However, there are no face-to-face meetings or investigator meetings planned."
+How many Case Report Forms will be needed for each subject? Make your own calculation based on the information provided.,Approximately 77 CRFs per subject will be collected.,"Based on the information provided, each subject will have an expected total of 89 Electronic Case Report Form (eCRF) pages."
+"Taking into account the primary endpoints, determine which are the top 3 critical data processes.","Mention at least three of the following: Blood collection for PK analysis
+Urine collection for PK analysis
+Assessment of eligibility criteria
+Assessment of adverse events",Answer: I don't know. The provided context does not specify the primary endpoints or the top 3 critical data processes related to them.
+How much will subjects be reimbursed for their participation in the study?,$4000 for any subjects that completes the study,"Subjects will be reimbursed a total of $4,000.00 if they successfully complete the study."
+How can this be both an open label and randomized study?,"The study is open-label because all subjects are receiving investigational product. The randomization component  in this study pertains to the treatment sequence the subjects are assigned to, whether they are dosed on dosing days (Day 1 and 4) in a fasted or fed state.","In a clinical trial, a study can be both open-label and randomized by having a design where participants are randomly assigned to different treatment groups, but both the participants and the researchers know which treatment is being administered. 
+
+In an open-label study, there is no blinding, meaning that all parties involved are aware of the treatment being given. Randomization, on the other hand, refers to the process of randomly assigning participants to different treatment groups to reduce bias and ensure that the groups are comparable. 
+
+Therefore, a study can be open-label and randomized by using randomization to assign participants to treatment groups while keeping the treatment assignments transparent to both participants and researchers. This design is often used when blinding is not feasible or necessary, such as when the study's primary focus is on pharmacokinetics or when the treatments have distinct characteristics that cannot be masked."
+Which functional services are being delegated by the sponsor to PPD?,The following services are being outsourced by Neuren (sponsor) to PPD (CRO): Project Management; Data Management; Biostatistics; Pharmacovigilance and Medical Monitoring; Regulatory Affairs; Medical Writing; Clinical Monitoring; Clinical Conduction (performing research at Austin site).,"1. Database Design
+2. Data Validation Manual Design
+3. CRF Design
+4. Edit-check Design
+5. Project Management
+6. Vendor Management/Interaction"
+Are there any fixed cost stipulations for this project?,Yes,"Yes, there are fixed cost stipulations for this project. If Neuren postpones or cancels the study after notification, start-up and advertising costs will be fully owed, and any additional costs incurred by PPD will be reimbursed by Neuren. Additionally, if the cancellation or postponement occurs within 2 calendar weeks of scheduled subject check-in for any cohort, a daily rate of $6,000 USD will be applied for up to 2 weeks based on PPD’s ability to occupy the reserved bed space."
+How many IMVs are budgeted for the study?,5,Five Interim Monitoring Visits (IMVs) are budgeted for the study.
+How many times are subjects being dosed with IP (investigational product) during the study? How much study IP should be shipped at a minimum to the Pharmacy to dose all subjects?,"Subjects are being dosed twice during the study. At least 7 bottles of Investigational Product (IP) should be shipped. 8 bottles is also a correct answer, if new bottles should be cracked open on Day 4.","Answer: Subjects are being dosed with the investigational product (IP) twice during the study, once on Day 1 and once on Day 4. Each dose is 17 mL of NNZ-2591 Oral Solution. 
+
+If each IP bottle contains 100 mL, then each bottle can provide approximately 5 doses (since 100 mL ÷ 17 mL per dose ? 5.88 doses per bottle). 
+
+Assuming there are approximately 18 participants in the study, and each participant receives 2 doses, a total of 36 doses are needed (18 participants × 2 doses each = 36 doses). 
+
+To determine the minimum number of 100 mL bottles required, divide the total number of doses by the number of doses per bottle: 36 doses ÷ 5 doses per bottle = 7.2 bottles. Since you cannot have a fraction of a bottle, you would need to round up to the nearest whole number, meaning at least 8 bottles should be shipped to the Pharmacy to dose all subjects."
+"Is the following subject eligible for this study? ?41 year old male screened on 02Aug2024, that dosed in a previous investigational drug study on 14Jun2024. There is not definitive half-life information for the IP, however PK information provided to PI currently suggests that the half-life is approximately 21 hours. ","Yes, subject is eligible - 30 days have elapsed from 14Jun2024 to 02Aug2024, and 5 half lives are approximately 105 hours. The longer period of time (30 days) has elapsed.","Based on the information provided, the 41-year-old male would not be eligible for this study. The protocol states that the use of any investigational drug is prohibited within 30 days before screening. Since the participant was previously dosed in an investigational drug study on June 14, 2024, and was screened on August 2, 2024, the time between dosing and screening is less than 30 days. Therefore, he does not meet the eligibility criteria."
+"Is the following subject eligibile for this study? 32 year old male in a relationship with another male. QTcF interval 430msec, that had plastic surgery  a month before screening. Surgery was done ambulatory and recovery was within two days. Subject not willing to use contraception.",Yes,"Based on the provided context, the 32-year-old male in a relationship with another male is not required to use contraception as male participants who are exclusively in same-sex relationships are not required to use contraception. His QTcF interval of 430 msec is below the exclusion threshold of >450 msec, making him eligible in terms of ECG criteria. However, he had ambulatory plastic surgery a month before screening, and the exclusion criteria state that a recent history of a major surgical procedure within 3 months of screening could disqualify a participant. It would depend on whether the Investigator considers the plastic surgery to be a major surgical procedure. Therefore, his eligibility would ultimately be determined by the Investigator's judgment regarding the surgery."
+"Is the following subject eligible for this study? 69 year old male with BP 139/70 mmHg. Subject is superb health according to the PI's assessment, is an iron-man triathlonete who does regular excercise and sticks to a good mediterranean diet. Subject has no history of any medical concern.",No,"No, the 69-year-old male is not eligible for this study. According to the inclusion criteria, participants must be healthy male or female individuals aged 18 to 55 years. Since the individual in question is 69 years old, he does not meet the age requirement for eligibility."
+Who is the PPD Project Manager for the study?,Julian Pastine,I don't know. The document does not specify the name of the PPD Project Manager for the study.
+"When is the final deliverable for the CRO?
+",06-Feb-25,"The final deliverable for the Contract Research Organization (CRO) is the eTMF Finalization and Transfer, which is projected to be completed by 06-Feb-2025."
+Which functional group is yielding the most amount of revenue to PPD? By how much?,"Clinical Conduction (364,055.64)",I don't know. The provided context does not include information about the revenue generated by different functional groups within PPD.
+How long will study subjects be confined for this study?,7 days,"Study subjects will be confined at the clinical facility from Day -1 through Day 7, which means they will be confined for up to 7 days during the study."
+What is inclusion criterion 2?,"Healthy male or female participants aged 18 to 55 years, inclusive, at the time of signing the informed consent.","Healthy male or female participants aged 18 to 55 years, inclusive, at the time of signing the informed consent."
+What is inclusion criterion 5?,"Overtly healthy as determined by the Investigator based on pre-study medical history, physical examination, vital signs, clinical laboratory tests, and standard 12-lead ECG.","Inclusion criterion #5 is: ""Overtly healthy as determined by the Investigator based on pre-study medical history, physical examination, vital signs, clinical laboratory tests, and standard 12-lead ECG."""
+What is inclusion criterion 7?,"No relevant dietary restrictions or food intolerances, and willing to consume the standard meals provided.",The provided context does not include an inclusion criterion #7.
+What is exclusion criterion 2?,"A 12-lead ECG at Screening or Baseline that demonstrates any of the following:
+QTcF interval >450 msec.
+QRS interval >120 msec.
+Other clinically relevant abnormalities that may affect participant safety or interpretation of study results (e.g., complete left bundle branch block, signs of an acute or indeterminate age myocardial infarction, ST-T interval changes suggestive of myocardial ischemia, second- or third-degree atrioventricular block, or serious bradyarrhythmias or tachyarrhythmias).",
+What is exclusion criterion 4?,"Recent history of a major surgical procedure (i.e., in the opinion of the Investigator and in consultation with the medical monitor) within 3 months of Screening.",The exclusion criterion #4 is not provided in the context you shared.
+What is exclusion criterion 6?,"Participants with ANY of the following abnormalities in clinical laboratory tests at Screening, as assessed by the study-specific clinical laboratory and confirmed by a single repeat test, if deemed necessary:
+a. Serum creatinine level above the upper limit of normal at Screening or an estimated glomerular filtration rate (eGFR) value ? 80 mL/min, based on the CKD-EPI creatinine equation.
+b. Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) values ? 1.5 × the upper limit of normal (ULN).","Exclusion criterion 6 is: ""Positive screen for alcohol or drugs of abuse at Screening or Baseline."""
+Who performs clinical monitoring of the investigation site?,PPD,The Sponsor's monitor is responsible for performing clinical monitoring at the investigation site.
+Where is the investigation site located?,"Austin, Texas, United States",United States
+Can subjects take water prior to dosing?,"Yes, until 1 hour before the administration.","Yes, subjects are allowed to consume water until 1 hour before the study intervention administration."
+What is the sample size for this study?,18,The sample size for this study is 18 randomized subjects.
+What platform will be used for the TMF?,Veeva,The platform used for managing the electronic trial master file (eTMF) is Veeva Systems' Vault Clinical Suite.
+Who is responsible for managing the TMF?,PPD,"The Project Lead (PL) is responsible for managing the electronic trial master file (eTMF) setup, maintenance, and closeout."
+Whose standard templates and SOPs will be used for the study?,PPD Templates,PPD's standard templates and SOPs are being used for the study unless otherwise specified.
+What style will be used for the CSR?,AMA,The Clinical Study Report (CSR) will be written using the AMA style.
+Which CDISC (ADaM) version will be used?,2.1,"The study will use the current PPD versions of the Clinical Data Interchange Standards Consortium (CDISC) guidance for the analysis data model (ADaM). However, the specific version number is not mentioned in the provided context."
+Who is the Neuren Clinical Trial Manager?,Nova Silver,I don't know. The provided context does not specify the Clinical Trial Manager for Neuren Pharmaceuticals.
+Are there any materials supplied for IP preparation?,"Yes, Comar Oral Syringes, Comar PIBA and Nalgene bottles.","Yes, Oral Syringes and PIBA"
+Which method is being employed to perform IP accountability?,Weight-based methods from bulk bottle,I don't know. The provided context does not specify the method used for investigational product (IP) accountability in the Neuren clinical trials.
+Who is the Austin Research Pharmacist?,Brian Torabi,The Austin Research Pharmacist in the context of the Neuren clinical trials is Brian Torabi.
+Are any materials being sourced by PPD for IP preparation?,Nalgene bottles,"No, the investigational product (IP) supply is being managed by ThermoFisher Scientific, which is contracted and managed by Neuren, not PPD."
+At what temperature will IP be stored?,15-25°C,"The investigational product (IP) will be stored at controlled room temperature, specifically between 15-25°C."
+At what temperature will PK Samples be shipped?,-70ºC,Pharmacokinetic (PK) samples must be kept on dry ice during shipping to ensure they remain frozen.
+"How often will PPD invoice?
+",At milestone completion for direct fees and monthly for passthrough costs,"PPD will invoice for their services monthly as they occur, as stated in the passthrough budget section."
+What's the payment schedule for this scope of work?,"Milestones defined for direct fees, monthly for passthrough costs.","- 5.57% of the budget: $50,000.00
+- 20.00% of the budget: $179,512.34
+- 15.00% of the budget: $134,634.25
+- 15.00% of the budget: $134,634.25
+- 15.00% of the budget: $134,634.25
+- 15.00% of the budget: $134,634.25
+- 10.00% of the budget: $89,756.17
+- 4.43% of the budget: $39,756.17
+
+The total budget is $897,561.70. Additionally, there is a stipend budget of $101,000.00 and a passthrough budget of $30,849.00, making the total budget $1,029,410.70. The stipend budget is invoiced 20% upfront, with the remaining amount invoiced as incurred, and any unused funds will be reconciled at the end of the study."
+What is the primary endpoint?,The primary endpoint is evaluate the pharmacokinetics (PK) of NNZ-2591 under fed and fasted conditions in healthy adult participants,I don't know. The provided context does not include information about the primary endpoint of the Neuren clinical trials.
+Can subjects smoke during confinement?,No,"No, subjects cannot smoke during confinement in the Neuren clinical trials. Participants are required to abstain from the use of tobacco or nicotine-containing products, including all vaping products, during confinement in the study site."
+Can subjects take coffee during confinement?,No,"No, subjects cannot consume coffee during confinement in the Neuren clinical trials. They must abstain from stimulating beverages containing caffeine or xanthine derivatives, including coffee, for 48 hours before admission and throughout confinement until discharge from the study site."
+What software is being used to keep the study timelines?,Microsoft Project,The software being used to maintain and monitor the project timeline is Microsoft Project.
+What is the SDV percentage performed by the monitor?,100%,The source data verification (SDV) percentage performed by the monitor in the Neuren clinical trials is 100%.
+What is the total value of the scope of work?,"$1,029,410.70 ","The total budget is $897,561.70. Additionally, there is a stipend budget of $101,000.00 and a passthrough budget of $30,849.00, making the total budget $1,029,410.70."
+For which diseases is the investigational product being researched?,"Angelman Syndrome
+Phelan-McDermid Syndrome
+Pitt Hopkins Syndrome
+Prader-Willi Syndrome",The investigational product in the Neuren clinical trials is being researched for Phelan McDermid Syndrome (PMS).
